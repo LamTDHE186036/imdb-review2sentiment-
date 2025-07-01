@@ -3,8 +3,10 @@
 Dự án sử dụng mạng nơ-ron hồi tiếp **LSTM (Long Short-Term Memory)** để phân loại cảm xúc các đoạn văn trong tập dữ liệu **IMDB** thành hai nhãn:
 - **Positive** (Tích cực)
 - **Negative** (Tiêu cực)
+  
 # data
 - giải nén file .rar để sử dụng data
+
 # Train_model
 
 - Tiền xử lý dữ liệu văn bản: làm sạch, mã hóa, padding
@@ -17,4 +19,4 @@ Dự án sử dụng mạng nơ-ron hồi tiếp **LSTM (Long Short-Term Memory)
 - Tiền xử lý dữ liệu đưa vào: làm sạch, mã hóa, padding
 - Đưa ra nhận xét cảm xúc
 # Liên hệ 
-Bạn có thể liên hệ qua email : Anllam2k44@gmail.com
+Bạn có thể liên hệ qua email : Anhlam2k44@gmail.com
