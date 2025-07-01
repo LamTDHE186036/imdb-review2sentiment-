@@ -16,5 +16,5 @@ Dự án sử dụng mạng nơ-ron hồi tiếp **LSTM (Long Short-Term Memory)
 - Sử dụng model đã lưu (.h5) đưa vào 1 câu nhận xét bất kì
 - Tiền xử lý dữ liệu đưa vào: làm sạch, mã hóa, padding
 - Đưa ra nhận xét cảm xúc
-  
-
+# Liên hệ 
+Bạn có thể liên hệ qua email : Anllam2k44@gmail.com
